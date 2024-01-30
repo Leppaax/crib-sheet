@@ -8,6 +8,20 @@ Made by Leevi Pinta, Tredu
 ### PHP
 
 so there is mainly database things and some other things
+<br>
+<br>
+how to start index.php:
+<br>
+<br>
+locate xampp
+<br>
+<br>
+console the xampp location and the php inside and start it like:
+<br>
+```
+C:/xampp/php/php.exe -S localhost:8888
+```
+<br>
 
 ### JavaScript
 
