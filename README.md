@@ -21,8 +21,6 @@ console the xampp location and the php inside and start it like:
 ```
 C:/xampp/php/php.exe -S localhost:8888
 ```
-<br>
-
 ### JavaScript
 
 still in made
