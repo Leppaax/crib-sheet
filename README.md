@@ -28,3 +28,7 @@ still in made
 ### CSS
 
 some small notes
+
+## Cheat links:
+
+[responsive things](https://www.codecademy.com/learn/fscj-22-making-a-website-responsive/modules/wdcp-22-layout-with-flexbox-8a62abed-21fe-442a-8d4d-2b84f3d4ee3a/cheatsheet)
