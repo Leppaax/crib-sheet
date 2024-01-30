@@ -32,6 +32,9 @@ some small notes
 ## Cheat links:
 
 [responsive things](https://www.codecademy.com/learn/fscj-22-making-a-website-responsive/modules/wdcp-22-layout-with-flexbox-8a62abed-21fe-442a-8d4d-2b84f3d4ee3a/cheatsheet)
+<br>
 [a lot of cheat sheets, there is shorter on the left side](https://www.codecademy.com/resources/cheatsheets/all)
+<br>
 [html cheat sheet](https://htmlcheatsheet.com/)
+<br>
 [more](https://cheatography.com/programming/)
